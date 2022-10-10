@@ -4,8 +4,6 @@
 
 Para rodar esse Projeto na sua máquina, por favor digite:
 
-## Estou adicionando essa linha em nosso README.md
-
 ```
-node app.js
+npm install react
 ```

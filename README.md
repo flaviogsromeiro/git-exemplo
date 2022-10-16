@@ -1,4 +1,4 @@
-# Exenplo de criação de um repositório - Curso Alura
+# Exemplo de criação de um repositório - Curso Alura
 
 > Status do Projeto: Em desenvolvimento
 

@@ -1,11 +1,9 @@
-# Exemplo de criação de um repositório - Curso Alura
+# Curso Git/Github da Alura
+
+🚩 Este repositório tem o intuito de colocar em prática os conceitos de versionamento de código aprendidos no curso de Git e Github da Alura.
 
 > Status do Projeto: Em desenvolvimento
 
-Para rodar esse Projeto na sua máquina, por favor digite:
 
-## Estou adicionando essa linha em nosso README.md
 
-```
-node app.js
-```
+
